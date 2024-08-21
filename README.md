@@ -1,7 +1,7 @@
 # Bulb
 # Overview
 
-This **iOS application** provides a simple solution for those who need a little help in taking care of their house plants. It is based on **MVVM architecture** and uses **Firebase** as backend infrastructure and storage. The UI is built using **UIKit** components. The main functionality is coved by **unit tests**. 
+This **iOS application** provides a simple solution for those who need a little help in taking care of their house plants. It is based on **MVVM architecture** and uses **Firebase** as backend infrastructure and storage. The main functionality is coved by **unit tests**. The UI is built using **UIKit** components.
 
 # Functionality
 
